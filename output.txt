@@ -1,0 +1,7 @@
+	Line=1, token=INTCONST, value="98"
+
+	Line=2, token=INTCONST, value="115"
+
+	Line=3, token=INTCONST, value="1234"
+
+#END-OF-FILE#
